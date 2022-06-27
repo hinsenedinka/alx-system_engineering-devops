@@ -1,1 +1,1 @@
-Write a script that prints “Hello, World” 
+Chmod u+x 0-hello_world
